@@ -17,6 +17,7 @@
   .style-header {
     display: flex;
     justify-content: center;
+    padding: 20px;
     background-color: #23272a;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
@@ -25,8 +26,6 @@
     font-family: 'RobotoCondensedBlack', sans-serif;
     font-size: 1.6em;
     color:  aliceblue;
-
-    margin-top: 33px;
 }  
 
 .style-font p {
@@ -73,10 +72,14 @@ nav a:hover::after {
     left: 0;
 }
 
+.style-main {
+    display: flex;
+    justify-content: space-around;
+}
+
 h2 {
     font-family: 'RobotoCondensedLight', sans-serif;
     font-weight: 700;
     font-size: 24px;
-    color: rgb(255, 255, 255);
-   
+    color: rgb(255, 255, 255); 
 }
