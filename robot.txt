@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stack8871.github.io/Buttons-Design-and-Inspiration/sitemap.xml
