@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'RobotoCondensedBlack';
+    src: url('../font/Roboto_Condensed/static/RobotoCondensed-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RobotoCondensedLight';
+    src: url('../font/Roboto_Condensed/static/RobotoCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
