@@ -19,7 +19,3 @@ It includes different styles, animations, and effects to enhance UI/UX.
 - **CSS** – Styling, animations, hover effects
 - **JavaScript** – Dynamic interactions (click effects, toggles, animations)
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Stack8871/Buttons-Design-and-Inspiration.git
