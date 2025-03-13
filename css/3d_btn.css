@@ -1,0 +1,12 @@
+.d-btn {
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    background: #ff9800;
+    box-shadow: 3px 3px 0 #e65100;
+    color: white;
+}
+.d-btn:hover {
+    box-shadow: 1px 1px 0 #e65100;
+}

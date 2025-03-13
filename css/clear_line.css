@@ -1,14 +1,4 @@
-.classic-button {
-    margin-top: 100px;
-  }
-  
-  .clear-line {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 18px;
-  }
-  /* Button Style*/ 
+    /* Button Styles*/ 
 
   .btn-clear-line {
     padding: 12px 24px;

@@ -1,0 +1,12 @@
+.modern-btn {
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    background: linear-gradient(90deg, #4CAF50, #81C784);
+    color: white;
+    border-radius: 5px;
+}
+.modern-btn:hover {
+    background: linear-gradient(90deg, #388E3C, #66BB6A);
+}
